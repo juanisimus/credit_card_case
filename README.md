@@ -1,4 +1,4 @@
-# credit_card_case
+# Credit Card Case
 File to check wheter a credit card is valid and the brand of the card.
 
 First the function validate() checks if the card numbers are valid.
